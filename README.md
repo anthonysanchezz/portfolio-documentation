@@ -1,5 +1,5 @@
 # Portfolio Documentation 📄
-[Recursos](#recursos-📎), [Modelos Usados](#3d-modelos-usados-🔷), [Términos y Condiciones](#términos-y-condiciones-⚖️), [Política de Privacidad](#política-de-privacidad-🔐)
+Recursos y modelos usados, términos y condiciones y política de privacidad.
 
 ## Recursos 📎
 1. [Globe React Three Fiber Component](https://github.com/vasturiano/react-globe.gl?tab=readme-ov-file), gracias [vasturiano](https://www.paypal.com/donate/?cmd=_donations&business=L398E7PKP47E8&currency_code=USD&source=url)
